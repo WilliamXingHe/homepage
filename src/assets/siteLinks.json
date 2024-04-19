@@ -5,14 +5,24 @@
     "link": "https://cloud.willxh.com/"
   },
   {
+    "icon": "File",
+    "name": "文件快递柜",
+    "link": "https://file.willxh.com/"
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "相册",
+    "link": "https://album.willxh.com/"
+  },
+  {
+    "icon": "Rocketchat",
+    "name": "ChatGPT",
+    "link": "https://chat.willxh.com/"
+  },
+  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
