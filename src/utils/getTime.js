@@ -74,7 +74,7 @@ export const helloInit = () => {
   const hour = new Date().getHours();
   let hello = null;
   if (hour < 6) {
-    hello = "凌晨好";
+    hello = "早点睡，注意身体";
   } else if (hour < 9) {
     hello = "早上好";
   } else if (hour < 12) {
