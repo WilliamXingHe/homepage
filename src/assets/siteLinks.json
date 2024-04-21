@@ -20,14 +20,14 @@
     "link": "https://photo.willxh.com/"
   },
   {
+    "icon": "Airbnb",
+    "name": "AI服务",
+    "link": "https://ai.willxh.com/"
+  },
+  {
     "icon": "Rocketchat",
     "name": "ChatGPT",
     "link": "https://chat.willxh.com/"
-  },
-  {
-    "icon": "Airbnb",
-    "name": "AI",
-    "link": "https://ai.willxh.com/"
   },
   {
     "icon": "LaptopCode",
