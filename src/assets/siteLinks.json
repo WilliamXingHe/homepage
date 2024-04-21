@@ -1,18 +1,23 @@
 [
   {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.willxh.com/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://cloud.willxh.com/"
   },
   {
-    "icon": "File",
+    "icon": "FileAlt",
     "name": "文件快递柜",
     "link": "https://file.willxh.com/"
   },
   {
     "icon": "PhotoVideo",
     "name": "相册",
-    "link": "https://album.willxh.com/"
+    "link": "https://photo.willxh.com/"
   },
   {
     "icon": "Rocketchat",
@@ -20,9 +25,9 @@
     "link": "https://chat.willxh.com/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.willxh.com/"
+    "icon": "Airbnb",
+    "name": "AI",
+    "link": "https://ai.willxh.com/"
   },
   {
     "icon": "LaptopCode",
